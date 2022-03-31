@@ -1,1 +1,1 @@
-# HCCToken
+# HCCOIN
