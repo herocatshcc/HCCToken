@@ -9,3 +9,5 @@ The Hero Cats game is in the Play-To-Earn genre and relax
 Hero Cats is a Role-playing game. A player will control a bionic warrior Cat to save the world dominated by Dog
 
 Dogs are the Doge, Shiba, Akita.. They are dominating lands such as cities, underground, ocean, planets over the galaxy
+
+
